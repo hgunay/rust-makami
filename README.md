@@ -1,2 +1,2 @@
-# rust-makami
+# Rust Makamı
 Rust makamına giriş :)
